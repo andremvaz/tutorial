@@ -1,0 +1,8 @@
+http://yakiloo.com/getting-started-git-flow/
+http://yakiloo.com/getting-started-git/
+https://mockupstogo.mybalsamiq.com/projects/diagrams/Git%20Workflow
+http://rogerdudler.github.io/git-guide/index.pt_BR.html
+http://marklodato.github.io/visual-git-guide/index-pt.html
+http://think-like-a-git.net/sections/rebase-from-the-ground-up.html
+http://2010.osdc.com.au/proposal/196/git-ages-4-and
+https://www.youtube.com/watch?v=1ffBJ4sVUb4
