@@ -1,0 +1,24 @@
+Como instalar git
+
+1) Comando para instalar no linux
+sudo apt-get install git
+
+2) Preparando o SSH
+ssh-keygen -t rsa -b 4096 -C "email"
+Enter 3 vezes -> NAO cria senha
+
+3) Verifica se agente ssh estah rodando
+eval "$(ssh-agent -s)"
+
+4) Adiciona arquivo que contem dados de autenticacao de usuario
+ssh-add ~/.ssh/id_rsa
+
+5) Instalar aplicativo para fazer a copia da chave (funciona como ctrl-c)
+sudo apt-get install xclip
+
+6) Copia chave
+xclip -sel clip <~/.ssh/id_rsa.pub
+
+7) No github:
+	Account -> settings -> ssh
+	Adicionar nova chave ssh
