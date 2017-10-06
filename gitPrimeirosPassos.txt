@@ -22,3 +22,4 @@ xclip -sel clip <~/.ssh/id_rsa.pub
 7) No github:
 	Account -> settings -> ssh
 	Adicionar nova chave ssh
+8) BitBucket???
