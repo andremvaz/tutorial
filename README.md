@@ -1,2 +1,2 @@
 # tutorial
-primeiro repositório para teste
+primeiro repositório para testes
